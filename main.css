@@ -174,7 +174,7 @@ img {
   }
 
   picture::after {
-    content: url(/images/illustration-box-desktop.svg);
+    content: url(images/illustration-box-desktop.svg);
     display: block;
     height: 106px;
     width: 90px;
