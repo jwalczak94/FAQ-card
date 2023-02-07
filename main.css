@@ -65,7 +65,7 @@ body {
 
 /* ELEMENTS */
 .card-component {
-  background-image: url(/images/bg-pattern-mobile.svg);
+  background-image: url(images/bg-pattern-mobile.svg);
   background-repeat: no-repeat;
   background-position: 50% 0;
   background-color: #fff;
@@ -131,7 +131,7 @@ img {
 }
 
 .question::after {
-  content: url(/images/icon-arrow-down.svg);
+  content: url(images/icon-arrow-down.svg);
   top: 0;
   right: 0;
   position: absolute;
@@ -152,7 +152,7 @@ img {
 /* MEDIA QUERIES */
 @media (min-width: 1100px) {
   .card-component {
-    background-image: url(/images/bg-pattern-desktop.svg);
+    background-image: url(images/bg-pattern-desktop.svg);
     background-position: -572px -294px;
     background-size: auto;
 
